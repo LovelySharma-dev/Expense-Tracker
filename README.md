@@ -171,7 +171,7 @@ The app is deployed using **Vercel**.
 Steps:
 
 1. Push project to GitHub
-2. Import repository into Vercel
+2. Import repository into Netlify
 3. Deploy
 4. Get live URL
 
